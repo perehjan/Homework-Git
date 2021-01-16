@@ -32,4 +32,9 @@ Lists
         - List level 3. Item 1
            - List level 4. Item 1.
 - List level 1. Item 3.
-
+_____
+Task list
+---------
+- [x] Подзвонити мамі
+- [X] Поїсти
+- [] Поспати
