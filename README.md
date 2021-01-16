@@ -26,10 +26,10 @@ _____
 Lists
 ----------
 - List level 1. Item 1.
-    -List level 2. Item 1.
+    - List level 2. Item 1.
 - List level 1. Item 2.
-    -List level 2. Item 1.
-        -List level 3. Item 1
-           -List level 4. Item 1.
+    - List level 2. Item 1.
+        - List level 3. Item 1
+           - List level 4. Item 1.
 - List level 1. Item 3.
 
